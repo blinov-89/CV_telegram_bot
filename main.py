@@ -112,7 +112,7 @@ def image(updater, context):
     updater.message.reply_photo(photo=draw_mask)
 
 
-with open("C:/Users/Dmitry/OneDrive/Рабочий стол/TOKEN.txt", "r") as valuesFile:
+with open("TOKEN.txt", "r") as valuesFile:
     TOKEN = valuesFile.readlines()
 
 
