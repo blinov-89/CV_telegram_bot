@@ -1,4 +1,4 @@
-# CV_talagram_bot
+# CV_telegram_bot
 
 classification and segmentation image
 
