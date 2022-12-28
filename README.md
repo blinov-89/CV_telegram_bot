@@ -2,7 +2,7 @@
 ____
 classification and segmentation image
 ____
-«КЛАССИФИКАЦИЯ И СЕГМЕНТАЦИЯ ОБЪЕКТОВ С ИСПОЛЬЗОВАНИЕМ НЕЙРОСЕТЕЙ»
+### «КЛАССИФИКАЦИЯ И СЕГМЕНТАЦИЯ ОБЪЕКТОВ С ИСПОЛЬЗОВАНИЕМ НЕЙРОСЕТЕЙ»
 ____
 Датасет с фотографиями товаров, ценников и ценой товара
 15 классов товаров:
@@ -64,9 +64,13 @@ ____
   <img src="https://user-images.githubusercontent.com/61515881/167557037-a4950eff-06ab-40fd-a45c-b36640b854a6.png" width="300" />
   <img src="https://user-images.githubusercontent.com/61515881/167557457-bcbcca24-673b-4824-a81d-13e1e2461a87.png" width="300" />
 </div>
+
 ____
+
 "CLASSIFICATION AND SEGMENTATION OF OBJECTS USING NEURAL NETWORKS"
+
 ____
+
 Dataset with photos of goods, price tags and the price of goods of 15 classes of goods 9000 images
 
 EfficientNetB0 Architecture
